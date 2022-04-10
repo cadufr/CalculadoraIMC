@@ -16,5 +16,7 @@ Aplicação console para calculos do IMC.
  ```
  dotnet run
  ```
+## Classificção IMC
 
+ Classificação que usa os resultados do IMC, de acordo com a Organização Mundial da Saúde,sendo que o IMC entre 18,5 a 24,9 representa o peso ideal e o menor risco de algumas doenças.
 
